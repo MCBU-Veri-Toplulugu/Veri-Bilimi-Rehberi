@@ -1,7 +1,7 @@
 ![logo](https://i.hizliresim.com/i7pztue.jpg)
 # Manisa Celal Bayar Üniversitesi Veri Topluluğu #
 Bu sayfa Manisa Celal Bayar Üniversitesi **Veri Topluluğu** üyeleri için hazırlanmış **Derin Öğrenme(Deep Learning)** rehberidir.
-Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye formu](https://docs.google.com/forms/d/e/1FAIpQLSczMPDGLATvOFSniiMnODwOjb_2Io8aiC6PEPW_t3K88UR5bA/alreadyresponded) doldurabilirsiniz.
+Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye formu](https://docs.google.com/forms/d/e/1FAIpQLSevtsJGBewpxEZKshCNOl_mlSiwHjY2eSxp8iwwGUICOuwuhg/viewform) doldurabilirsiniz.
 
 **Sosyal Medya Hesaplarımız**
 
@@ -205,5 +205,5 @@ Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
 https://github.com/ayyucedemirbas/Deep-Learning-Tips-and-Tricks)
 
 ### [Sayfa Başına Dönmek için Tıkla](#İçindekiler)
-### [Anasayfaya Dönüş için Tıkla](https://github.com/Furk4nBulut/Veri-Billimi-Toplulugu-Rehber)
+### [Anasayfaya Dönüş için Tıkla](https://github.com/MCBU-Veri-Toplulugu/Veri-Bilimi-Rehberi)
 
