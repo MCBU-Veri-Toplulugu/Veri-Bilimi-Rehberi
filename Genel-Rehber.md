@@ -1,7 +1,7 @@
 ![logo](https://i.hizliresim.com/e9305l2.jpg)
 #       Manisa Celal Bayar Üniversitesi Veri Bilimi Topluluğu #
 Bu sayfa Manisa Celal Bayar Üniversitesi **Veri Bilimi Topluluğu** üyeleri için hazırlanmış rehberidir. Bu sayfada kaynakları daha karmaşık ve kategorilendirilmemiş haliyle bulabilirsiniz.
-Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye formu](https://docs.google.com/forms/d/e/1FAIpQLSczMPDGLATvOFSniiMnODwOjb_2Io8aiC6PEPW_t3K88UR5bA/alreadyresponded) doldurabilirsiniz.
+Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye formu](https://docs.google.com/forms/d/e/1FAIpQLSevtsJGBewpxEZKshCNOl_mlSiwHjY2eSxp8iwwGUICOuwuhg/viewform) doldurabilirsiniz.
 
 # Sosyal Medya Hesaplarımız
 
@@ -283,5 +283,5 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 ## Mobil Uygulamalar
 * [Görme Engelliler için Para Okuyucu](https://itunes.apple.com/tr/app/para-okuyucu/id1334298365?l=tr&mt=8) (Özgür Şahin)
 
-### [Sayfa Başına Dönmek için Tıkla](#İçerikler)
-### [Anasayfaya Dönüş için Tıkla](https://github.com/Furk4nBulut/Veri-Billimi-Toplulugu-Rehber)
+### [Sayfa Başına Dönmek için Tıkla](#İçindekiler)
+### [Anasayfaya Dönüş için Tıkla](https://github.com/MCBU-Veri-Toplulugu/Veri-Bilimi-Rehberi)
