@@ -27,6 +27,6 @@ Bu sayfadan Python ile ilgili kaynaklara ulaşabilirsiniz.
 * [How Think Like a Computer Scientist](http://openbookproject.net/thinkcs/python/english3e/)
 
 ### [Sayfa Başına Dönmek için Tıkla](#İçindekiler)
-### [Anasayfaya Dönüş için Tıkla](https://github.com/Furk4nBulut/Veri-Billimi-Toplulugu-Rehber)
+### [Anasayfaya Dönüş için Tıkla](https://github.com/MCBU-Veri-Toplulugu/Veri-Bilimi-Rehberi)
 
 
