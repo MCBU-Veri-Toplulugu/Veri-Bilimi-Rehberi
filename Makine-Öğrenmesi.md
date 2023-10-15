@@ -116,5 +116,5 @@ Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
 * [40 Machine Learning Projects with Python](https://amankharwal.medium.com/25-machine-learning-projects-with-python-9af3ca130566)
 
 ### [Sayfa Başına Dönmek için Tıkla](#İçindekiler)
-### [Anasayfaya Dönüş için Tıkla](https://github.com/Furk4nBulut/Veri-Billimi-Toplulugu-Rehber)
+### [Anasayfaya Dönüş için Tıkla](https://github.com/MCBU-Veri-Toplulugu/Veri-Bilimi-Rehberi)
 
