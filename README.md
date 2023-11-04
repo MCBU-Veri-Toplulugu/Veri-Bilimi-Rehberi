@@ -3,7 +3,6 @@
 
 Bu sayfa Manisa Celal Bayar Üniversitesi **Veri Topluluğu** üyeleri için hazırlanmış rehberidir.
 Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye formu](
-
 https://veri.mcbu.edu.tr/hesaplarimiz) doldurabilirsiniz.
 
 
