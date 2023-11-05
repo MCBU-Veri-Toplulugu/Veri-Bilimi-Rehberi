@@ -1,7 +1,7 @@
 ![logo](https://i.hizliresim.com/nlsipmz.jpg)
 # Manisa Celal Bayar Üniversitesi Veri Topluluğu #
 Bu sayfa Manisa Celal Bayar Üniversitesi **Veri Topluluğu** üyeleri için hazırlanmış **Yapay Zeka(Artificial Intelligence)** rehberidir.
-Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye formu](https://docs.google.com/forms/d/e/1FAIpQLSevtsJGBewpxEZKshCNOl_mlSiwHjY2eSxp8iwwGUICOuwuhg/viewform) doldurabilirsiniz.
+Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye formu](https://veri.mcbu.edu.tr/hesaplarimiz/) doldurabilirsiniz.
 
 **Sosyal Medya Hesaplarımız**
 
