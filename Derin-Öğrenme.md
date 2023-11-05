@@ -163,6 +163,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 * [Keras Video Eğitim Serisi](https://www.youtube.com/watch?v=RNWjwdEQHOQ&list=PLRRY18KNZTgUyaxSRvExF7zNsIpaehl5e) (Mehmet Burak Sayıcı) {21 video, artmakta}
 * [Julia ve Knet ile Derin Öğrenmeye Giriş](https://youtu.be/3TR3Rx-Esis) (Doç. Dr. Deniz Yuret) {104 dakika},
 * [MatConvNet ve Matlab ile Derin Öğrenmeye Giriş](https://www.youtube.com/watch?v=nRVQQNw4Kh4&t=8s) (Ahmet Gökhan POYRAZ) {5 Video, eklemeler yapılacaktır}
+* [Deep Learning Specialization DeeplearningAI](https://www.coursera.org/specializations/deep-learning?myLearningTab=IN_PROGRESS)
 
 
 
