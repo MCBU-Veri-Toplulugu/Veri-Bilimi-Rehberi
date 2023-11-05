@@ -77,6 +77,7 @@ Veriye ilgi duyuyorsanız Veri Bilimi topluluğuna katılmak için [aktif üye f
 * [makineogrenimi.wordpress.com](https://makineogrenimi.wordpress.com)
 * [devhunteryz.wordpress.com](https://devhunteryz.wordpress.com)
 * [Yapay Zeka (Aynur Sönmez)](https://medium.com/@aynurrson12/list/yapay-zeka-0413a896f0ed)
+* [Stanford Üniversitesi Yapay Zeka/Makine Öğrenmesi/Derin Öğrenme Notları](https://stanford.edu/~shervine/teaching/cs-230/)
 
 ## Github
 * [Python - Yapay Zeka için Python Programlama](https://github.com/dataiteam/7-ADIMLIK-YAPAY-ZEKA-YOLCULUGU/tree/master/Python%20-%20Yapay%20Zeka%20i%C3%A7in%20Python%20Programlama%20(1))
