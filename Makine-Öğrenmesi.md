@@ -20,6 +20,7 @@ Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
 * **[Algoritmalar](#Algoritmalar)**
 * **[Bloglar](#bloglar)**
 * **[Github](#github)**
+* **[Coursera](#coursera)**
 * **[Projeler](#projeler)**
 
 ## Genel Bilgi
@@ -103,6 +104,14 @@ Bu sayafada Makine öğrenmesi ile ilgili kaynaklara ulaşabilirsiniz.
 * [Makine Öğrenmesi Algoritmaları (Mehmet Akif Özgür)](https://medium.com/@aynurrson12/list/yapay-zeka-0413a896f0ed)
 * [Makine Öğrenmesi (Naciye Kuru)](https://medium.com/@naciyekuru/list/ml-b82ffa414ce3)
 * [Makine Öğrenmesi Eğitimi | Bilkav (Sadi Evren Şeker](https://bilkav.com/makine-ogrenmesi-egitimi/)
+* [Stanford Üniversitesi Yapay Zeka/Makine Öğrenmesi/Derin Öğrenme Notları](https://stanford.edu/~shervine/teaching/cs-230/)
+
+
+## Coursera
+* [University of Washington Machine Learning Specialization (Emily Fox)](https://www.coursera.org/specializations/machine-learning)
+* [DeepLearningAI Machine Learning Specialization (Andrew NG)]([https://www.coursera.org/specializations/machine-learning](https://www.coursera.org/specializations/machine-learning-introduction))
+  
+  
   
 
 ## Github
