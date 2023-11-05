@@ -186,6 +186,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 * [alpslabel.wordpress.com](https://alpslabel.wordpress.com//)
 * [makineogrenimi.wordpress.com](https://makineogrenimi.wordpress.com)
 * [devhunteryz.wordpress.com](https://devhunteryz.wordpress.com)
+* [Stanford Üniversitesi Yapay Zeka/Makine Öğrenmesi/Derin Öğrenme Notları](https://stanford.edu/~shervine/teaching/cs-230/)
 
 ## Bilimsel Makaleler
 ### Genel (Review/Survey)
